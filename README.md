@@ -23,7 +23,7 @@ The dataset used in this project contains historical automobile sales data, incl
 - **Month:** The month of the observation.
 - **Year:** The year of the observation.
 
-The data has been artificially created for the purpose of this assignment.
+
 
 ## Part 1: Visualizations
 
